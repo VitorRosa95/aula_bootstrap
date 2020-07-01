@@ -1,0 +1,33 @@
+.collapse{
+    font-style: oblique;
+}
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar{
+    background-color: #7BEA70;
+    
+}
+
+nav{
+    color: white;
+}
+
+.quem-somos{
+    background-color: #545454 ;
+    color: #7BEA70;
+}
+
+.margin{
+    padding-top: 50px ;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: #7BEA70;
+    color: #545454;
+}
+
+footer{
+    color: #545454;
+}
